@@ -1,0 +1,6 @@
+vendor
+db.sqlite
+.idea
+.vscode
+.phpunit.result.cache
+.DS_Store
